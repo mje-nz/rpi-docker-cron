@@ -1,4 +1,4 @@
-FROM hypriot/rpi-alpine:3.4
+FROM arm32v6/alpine:3.6
 
 COPY start-cron.sh /
 CMD ["/start-cron.sh"]
