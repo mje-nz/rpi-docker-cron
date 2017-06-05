@@ -1,5 +1,7 @@
 Docker cron image for Raspberry Pi
 ==================================
+[![](https://images.microbadger.com/badges/image/mjenz/rpi-cron.svg)](https://microbadger.com/images/mjenz/rpi-cron "Get your own image badge on microbadger.com")
+
 To use this image directly, just mount a crontab file as /crontab.
 e.g.
 
